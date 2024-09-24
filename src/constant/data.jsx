@@ -9,15 +9,15 @@ import { HiPlus } from "react-icons/hi";
 
 import disney from "../assets/images/disney.png";
 import marvel from "../assets/images/marvel.png";
-import nationalG from "../assets/images/nationalG.png";
+import nationalGeographic from "../assets/images/nationalG.png";
 import pixar from "../assets/images/pixar.png";
 import starwar from "../assets/images/starwar.png";
 
-import starwarVideo from '../assets/videos/star-wars.mp4'
-import disneyVideo from '../../assets/Videos/disney.mp4'
-import marvelVideo from '../../assets/Videos/marvel.mp4'
-import nationalGeographicVideo from '../../assets/Videos/national-geographic.mp4'
-import pixarVideo from '../../assets/Videos/pixar.mp4'
+import starwarVideo from "../assets/videos/star-wars.mp4";
+import disneyVideo from '../assets/videos/disney.mp4';
+import marvelVideo from '../assets/videos/marvel.mp4';
+import nationalGeographicVideo from '../assets/videos/national-geographic.mp4'
+import pixarVideo from '../assets/videos/pixar.mp4'
 
 
 // Navigation Menu Items
@@ -78,7 +78,7 @@ export const productionHouseList = [
     },
     {
         id:5,
-        image:nationalG,
+        image:nationalGeographic,
         video:nationalGeographicVideo
     },
 
