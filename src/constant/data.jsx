@@ -13,11 +13,11 @@ import nationalG from "../assets/images/nationalG.png";
 import pixar from "../assets/images/pixar.png";
 import starwar from "../assets/images/starwar.png";
 
-import starwarVideo from './../assets/Videos/star-wars.mp4'
-import disneyVideo from './../assets/Videos/disney.mp4'
-import marvelVideo from './../assets/Videos/marvel.mp4'
-import nationalGeographicVideo from './../assets/Videos/national-geographic.mp4'
-import pixarVideo from './../assets/Videos/pixar.mp4'
+import starwarVideo from '../assets/videos/star-wars.mp4'
+import disneyVideo from '../../assets/Videos/disney.mp4'
+import marvelVideo from '../../assets/Videos/marvel.mp4'
+import nationalGeographicVideo from '../../assets/Videos/national-geographic.mp4'
+import pixarVideo from '../../assets/Videos/pixar.mp4'
 
 
 // Navigation Menu Items
